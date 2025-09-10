@@ -1,7 +1,7 @@
 # SMS-Spam-Detection
 This project implements a Machine Learning model for classifying SMS messages as spam or ham (legitimate). It demonstrates how Natural Language Processing (NLP) techniques can be applied to text data to build a reliable spam filter.
 
-🔑 Key Features
+🔑 Key Features :
 
 1.Data Preprocessing
 Loaded SMS dataset (spam.csv) with messages and labels.
@@ -34,10 +34,10 @@ ROC Curve & AUC Score
 Naive Bayes provided a strong baseline.
 SVM and Logistic Regression achieved higher accuracy and robustness.
 
-📊 Results
+📊 Results : 
 Models achieved high accuracy (>95%), making them effective for spam filtering.
 TF-IDF + SVM gave the best performance on this dataset.
 
-🚀 Applications
+🚀 Applications : 
 Can be integrated into SMS apps or email systems to automatically detect spam.
 Provides a foundation for building real-time spam detection services

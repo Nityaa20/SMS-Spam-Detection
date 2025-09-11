@@ -1,5 +1,5 @@
 # SMS-Spam-Detection
-This project implements a Machine Learning model for classifying SMS messages as spam or ham (legitimate). It demonstrates how Natural Language Processing (NLP) techniques can be applied to text data to build a reliable spam filter.
+This project focuses on SMS Spam Detection using Python. It provides detailed visualizations to understand the dataset and highlight differences between spam and ham messages.
 
 🔑 Key Features :
 
